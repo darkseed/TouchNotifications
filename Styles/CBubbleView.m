@@ -45,6 +45,7 @@
 @implementation CBubbleView
 
 @synthesize accessoryViews;
+@synthesize layoutView;
 
 - (id)initWithFrame:(CGRect)frame
 {

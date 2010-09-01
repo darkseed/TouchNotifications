@@ -44,6 +44,7 @@
 @synthesize imageView;
 @synthesize accessoryView;
 @synthesize badgePosition;
+@synthesize layoutView;
 
 - (id)initWithFrame:(CGRect)frame
 {
