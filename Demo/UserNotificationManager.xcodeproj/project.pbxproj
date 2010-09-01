@@ -119,7 +119,7 @@
 			isa = PBXGroup;
 			children = (
 				453C312410B1A3A800C4DA32 /* Demo */,
-				453C314710B1A3C300C4DA32 /* UserNotificationManager */,
+				453C314710B1A3C300C4DA32 /* Source */,
 				4513C90010C598310053925E /* touchcode */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
@@ -231,7 +231,7 @@
 			name = Demo;
 			sourceTree = "<group>";
 		};
-		453C314710B1A3C300C4DA32 /* UserNotificationManager */ = {
+		453C314710B1A3C300C4DA32 /* Source */ = {
 			isa = PBXGroup;
 			children = (
 				453C314E10B1A3C300C4DA32 /* CUserNotification.h */,
@@ -245,8 +245,8 @@
 				453C31A210B1A5F700C4DA32 /* Styles */,
 				453C315410B1A3C300C4DA32 /* Extensions */,
 			);
-			name = UserNotificationManager;
-			path = ..;
+			name = Source;
+			path = ../Source;
 			sourceTree = SOURCE_ROOT;
 		};
 		453C315410B1A3C300C4DA32 /* Extensions */ = {
